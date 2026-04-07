@@ -4,40 +4,6 @@
   <img src="Convolutional neural network.png" width="30%" /> 
 </p
 
-<p>
-  <b>AI Lab: Deep Learning for Computer Vision</b><br>
-  <b><a href="https://www.wqu.edu/">WorldQuant University</a></b>
-</p>
-
-<div class="alert alert-success" role="alert">
-  <p>
-    <center><b>Usage Guidelines</b></center>
-  </p>
-  <p>
-    This file is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
-  </p>
-  <p>
-    You <b>can</b>:
-    <ul>
-      <li><span style="color: green">✓</span> Download this file</li>
-      <li><span style="color: green">✓</span> Post this file in public repositories</li>
-    </ul>
-    You <b>must always</b>:
-    <ul>
-      <li><span style="color: green">✓</span> Give credit to <a href="https://www.wqu.edu/">WorldQuant University</a> for the creation of this file</li>
-      <li><span style="color: green">✓</span> Provide a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">link to the license</a></li>
-    </ul>
-    You <b>cannot</b>:
-    <ul>
-      <li><span style="color: red">✗</span> Create derivatives or adaptations of this file</li>
-      <li><span style="color: red">✗</span> Use this file for commercial purposes</li>
-    </ul>
-  </p>
-  <p>
-    Failure to follow these guidelines is a violation of your terms of service and could lead to your expulsion from WorldQuant University and the revocation your certificate.
-  </p>
-</div>
-
 ### Getting Started
 
 As before, we'll import the packages we'll need in this notebook. Most of these are the same as the previous notebook, but there are a few new ones.
@@ -1676,3 +1642,40 @@ All together, this let us complete the competition we have been working on. We n
 
 ---
 This file &#169; 2024 by [WorldQuant University](https://www.wqu.edu/) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+
+
+<p>
+  <b>AI Lab: Deep Learning for Computer Vision</b><br>
+  <b><a href="https://www.wqu.edu/">WorldQuant University</a></b>
+</p>
+
+<div class="alert alert-success" role="alert">
+  <p>
+    <center><b>Usage Guidelines</b></center>
+  </p>
+  <p>
+    This file is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
+  </p>
+  <p>
+    You <b>can</b>:
+    <ul>
+      <li><span style="color: green">✓</span> Download this file</li>
+      <li><span style="color: green">✓</span> Post this file in public repositories</li>
+    </ul>
+    You <b>must always</b>:
+    <ul>
+      <li><span style="color: green">✓</span> Give credit to <a href="https://www.wqu.edu/">WorldQuant University</a> for the creation of this file</li>
+      <li><span style="color: green">✓</span> Provide a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">link to the license</a></li>
+    </ul>
+    You <b>cannot</b>:
+    <ul>
+      <li><span style="color: red">✗</span> Create derivatives or adaptations of this file</li>
+      <li><span style="color: red">✗</span> Use this file for commercial purposes</li>
+    </ul>
+  </p>
+  <p>
+    Failure to follow these guidelines is a violation of your terms of service and could lead to your expulsion from WorldQuant University and the revocation your certificate.
+  </p>
+</div>
