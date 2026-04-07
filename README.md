@@ -4,7 +4,8 @@
   <img src="Convolutional neural network.png" width="30%" /> 
 </p
 
-### Getting Started
+
+###  Getting Started
 
 As before, we'll import the packages we'll need in this notebook. Most of these are the same as the previous notebook, but there are a few new ones.
 
